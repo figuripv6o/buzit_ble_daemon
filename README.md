@@ -1,3 +1,13 @@
+<!-- PROJECT LABELS -->
+![status](https://img.shields.io/badge/status-stable-brightgreen)
+![type](https://img.shields.io/badge/type-BLE%20Daemon-blue)
+![platform](https://img.shields.io/badge/platform-Termux%20%7C%20Android-lightgrey)
+![language](https://img.shields.io/badge/language-Python-green)
+![license](https://img.shields.io/badge/license-MIT-black)
+# Buzit BLE Daemon
+
+
+
 # Buzit BLE Daemon
 
 Canonical Core – v1.0.0
